@@ -1,0 +1,8 @@
+fastapi==0.65.2
+orjson
+uvicorn[standard]
+gunicorn
+tortoise-orm[aiomysql]
+tortoise-orm[accel]
+python-jose[cryptography]
+python-multipart
